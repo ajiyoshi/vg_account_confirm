@@ -2,4 +2,4 @@ vg_account_confirm
 ==================
 
 
-https://github.com/ajiyoshi/vg_account_confirm/edit/master/README.md
+85f88c6434ff421f040658a5fa8bf85df1807f50c1fb1b8dcaf7d9554329ea7b
